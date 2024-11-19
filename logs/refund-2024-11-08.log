@@ -1,0 +1,16 @@
+Received refund request for orderId: 6565555
+Searching for PaymentIntent with the provided orderId.
+Found 1 PaymentIntent(s).
+All PaymentIntents: [object Object]
+Retrieved PaymentIntent ID: pi_3QIvhZAXBXj0X0i70OZcdfFc
+Extracted timestamp from metadata: 2024-11-09 00:28:45
+Parsed timestamp: 2024-11-08T18:58:45.000Z
+Current time: 2024-11-08T20:16:11.388Z
+Elapsed time: 77.44 minutes (1.29 hours)
+Charge for 2 hour(s) after first 5 minutes: €5.00
+Charge amount in cents: 500
+Original amount charged: 2000 cents
+Calculated refund amount before validation: 1500 cents
+Creating refund for 1500 cents.
+Refund created with ID: re_3QIvhZAXBXj0X0i70mLwkW03
+--- LOG END ---
